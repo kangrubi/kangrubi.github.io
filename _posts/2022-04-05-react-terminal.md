@@ -3,6 +3,8 @@ layout: single
 title: "React 터미널 설정"
 ---
 
+## 터미널 설정
+
 ### 연결
 - npx create-react-app .
 

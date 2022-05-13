@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "React 터미널 설정"
+title: "React 개발환경 설정"
 ---
 
 ## 터미널 설정

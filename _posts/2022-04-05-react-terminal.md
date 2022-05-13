@@ -16,3 +16,6 @@ title: "React 터미널 설정"
 
 ### 웹 서버 실행
 - npx serve -s build
+
+### router 설정
+- npm install react-router-dom --sav

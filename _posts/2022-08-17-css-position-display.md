@@ -1,7 +1,7 @@
-—
+---
 layout: single
 title:  "css, position과 display"
-—
+---
 
 ## position 속성 - relative, absolute, fixed
 
